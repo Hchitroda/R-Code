@@ -1,4 +1,4 @@
-# Moduel 2: CAPM and Multifactor models
+CAPM and Multifactor models
 
 ### You should use your working directory to load data file from the case study ###
 ###Click: Session-->Set Working Directory-->To Source File Location
